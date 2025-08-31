@@ -1,1 +1,2 @@
 # link_prediction
+Link prediction in social networking uses machine learning to forecast missing or future connections between users. By analyzing graph structures, node similarities, and features, algorithms predict potential relationships. Applications include friend recommendations, community detection, and anomaly detection, enhancing user engagement and understanding of evolving network dynamics.
